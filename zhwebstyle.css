@@ -1,6 +1,6 @@
 @charset "UTF-8";
 :root {
- /*! --scrollbar-wd:17px */
+ --scrollbar-wd:17px
 }
 html {
  -ms-overflow-style:-ms-autohiding-scrollbar
@@ -5453,7 +5453,7 @@ button:focus {
  opacity:1
 }
 .atm-context_menu_item__label {
- flex-grow:1;
+ flex-grow:1
 }
 .atm-context_menu_item__icon use {
  transition:fill .1s ease;
