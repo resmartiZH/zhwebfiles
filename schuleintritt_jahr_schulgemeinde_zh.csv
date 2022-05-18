@@ -1,4 +1,4 @@
-"","jahr","schulgemeinde","schulgemeinde_code","normal","verzoegert","vorzeitig","total","normalpecent","verzoegertpecent","vorzeitigpecent"
+"","jahr","schulgemeinde","schulgemeinde_code","Anzahl normal eingeschult","Anzahl verzögert eingeschult","Anzahl vorzeitig eingeschult","Total Anzahl SuS","Anteil normal eingeschult","Anteil verzögert eingeschult","Anteil vorzeitig eingeschult"
 "1",2014,"Zürich","A001",1,0,0,1,1,0,0
 "2",2015,"Zürich","A001",0,1,0,1,0,1,0
 "3",2016,"Zürich","A001",1,1,0,2,0.5,0.5,0
