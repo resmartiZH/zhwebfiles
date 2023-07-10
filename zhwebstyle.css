@@ -3954,10 +3954,6 @@ html {
  font-size:100%;
  line-height:1.5
 }
-body,
-html {
- overflow-x:hidden
-}
 body.locked,
 html.locked {
  overflow:hidden
@@ -22898,4 +22894,3 @@ h4.mdl-flex-data__extended-subtitle {
   display:none
  }
 }
-/*# sourceMappingURL=main.min.css.map */
